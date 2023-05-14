@@ -1,0 +1,11 @@
+C:\MKod\С#\OOP\bin\Debug\OOP.exe.config
+C:\MKod\С#\OOP\bin\Debug\OOP.exe
+C:\MKod\С#\OOP\bin\Debug\OOP.pdb
+C:\MKod\С#\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\MKod\С#\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\MKod\С#\OOP\obj\Debug\OOP.Form1.resources
+C:\MKod\С#\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\MKod\С#\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\MKod\С#\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\MKod\С#\OOP\obj\Debug\OOP.exe
+C:\MKod\С#\OOP\obj\Debug\OOP.pdb
